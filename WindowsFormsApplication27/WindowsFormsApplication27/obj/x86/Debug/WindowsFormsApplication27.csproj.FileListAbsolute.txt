@@ -1,0 +1,17 @@
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe.config
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\salon.mdf
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\salon_log.ldf
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.exe
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\WindowsFormsApplication27.pdb
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.Form1.resources
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.Properties.Resources.resources
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.csproj.GenerateResource.Cache
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.exe
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.pdb
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.csprojResolveAssemblyReference.cache
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\salonDataSet.cs
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\salonDataSet.Designer.cs
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\salonDataSet.xsc
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\salonDataSet.xsd
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\bin\Debug\salonDataSet.xss
+C:\Users\Andra\documents\visual studio 2010\Projects\WindowsFormsApplication27\WindowsFormsApplication27\obj\x86\Debug\WindowsFormsApplication27.Form2.resources
